@@ -1,4 +1,5 @@
 import './App.css'
+import Calculator from './files/calculator' //addong my calsc!
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import Structuring from './components/Structuring'
 import Home from './files/home'
@@ -17,6 +18,7 @@ const router = createBrowserRouter([
       {path: 'education', element: <Education />},
       {path: 'projects', element: <Projects />},
       {path: 'certifications', element: <Certifications />},
+      {path: 'calculator', element: <Calculator />}, //hello calc! can u tell this was my favorite part
     ],
   },
 ])

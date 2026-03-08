@@ -8,6 +8,7 @@ export default function Nav() {
         <li><Link to="/education">Education</Link></li>
         <li><Link to="/projects">Projects</Link></li>
         <li><Link to="/certifications">Certifications</Link></li>
+        <li><Link to="/calculator">Calculator</Link></li>
       </ul>
     </nav>
   )
