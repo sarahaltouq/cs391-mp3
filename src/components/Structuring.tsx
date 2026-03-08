@@ -4,10 +4,11 @@ import Nav from './Nav'
 import Footer from './Footer'
 
 export default function Structuring() {
-  return ( <>
-      <Header/>
+  return (<> <Header/>
       <div id="container">
-        <Nav/><main><Outlet/>
+        <Nav/>
+        <main>
+            <Outlet/>
         </main></div><Footer/>
     </>
   )

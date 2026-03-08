@@ -1,7 +1,6 @@
 import './App.css'
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import Structuring from './components/Structuring'
-
 import Home from './files/home'
 import Experiences from './files/experiences'
 import Education from './files/education'

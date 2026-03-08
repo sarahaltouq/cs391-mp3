@@ -37,11 +37,10 @@ nav ul{
 
 nav ul li{
     width: 60%;
-    background-color: white;
     padding: 10px;
     margin: 10px;
-    text-align: center;
 }
+
 main{
     height: 80vh;
     width: 70%;

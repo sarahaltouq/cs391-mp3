@@ -1,7 +1,6 @@
 export default function Projects() {
   return (
     <>
-     
       <h2>Projects</h2>
                <h3>ctrlBuild</h3>
                 <h3>June 2022 - Present</h3>
